@@ -1,0 +1,10 @@
+[submodule "linux"]
+	path = linux
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+	shallow = true
+[submodule "limine"]
+	path = limine
+	url = https://codeberg.org/Limine/Limine.git
+[submodule "GlaDOS"]
+	path = GlaDOS
+	url = https://github.com/dnhkng/GLaDOS.git
