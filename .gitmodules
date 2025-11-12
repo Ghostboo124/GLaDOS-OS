@@ -8,3 +8,6 @@
 [submodule "GlaDOS"]
 	path = GlaDOS
 	url = https://github.com/dnhkng/GLaDOS.git
+[submodule "busybox"]
+	path = busybox
+	url = https://git.busybox.net/busybox
